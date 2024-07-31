@@ -56,7 +56,7 @@ export default class Locale implements LocaleInterface {
       { number: 73, value: 'Soixante-Treize' },
       { number: 72, value: 'Soixante-Douze' },
       { number: 71, value: 'Soixante Et Onze' },
-      { number: 70, value: 'Soixante-dix' },
+      { number: 70, value: 'Soixante-Dix' },
       { number: 69, value: 'Soixante-Neuf' },
       { number: 68, value: 'Soixante-Huit' },
       { number: 67, value: 'Soixante-Sept' },
